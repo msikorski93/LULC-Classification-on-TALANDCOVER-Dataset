@@ -8,7 +8,7 @@
 
 This repository presented an efficient deep learning model, named Mobile-UNet, for land cover classification, which is inspired by MobileNetV2 and U-Net. The model was evaluated on a public dataset (TALANDCOVER) in TIF format. Compared with U-Net, Mobile-UNet requires fewer parameters, and achieved high segmentation accuracy. In practical applications, the land cover in multiband imagery is mostly imbalanced and facing semantic issues, which makes the network difficult to train. In this case, vegetation classes exhibited significant similarities, leading to challenges in boundary delineation. To solve this problem, we utilize the improved loss function, focused on two most challenging classes, to make the model easier to train. The neural network's performance was evaluated with commonly used segmentation metrics. The model's architecture allowed us to observe the large learning capabilities on the data.
 
-<img src='https://github.com/user-attachments/assets/40d9b5a5-dcb9-42a2-b995-203763675327' height='200'/>
+<img src='https://github.com/user-attachments/assets/40d9b5a5-dcb9-42a2-b995-203763675327' height='250'/>
 
 <img src='https://github.com/user-attachments/assets/c1183c20-a693-47b5-a653-8e3c9b000802' width='450'/>
 
