@@ -24,7 +24,7 @@ Evaluation metrics across each class:
 
 Aggregated performance metrics:
 
-**Precision:** 0.762498<br>
+**Precision :** 0.762498<br>
 **Recall   :** 0.754779<br>
 **F1       :** 0.755873<br>
 **IoU      :** 0.617237<br>
